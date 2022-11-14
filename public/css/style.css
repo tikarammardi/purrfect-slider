@@ -120,13 +120,13 @@ body,html{
 }
 
 /* use position absolute to move the prev arrow to the left of the screen */
-#arrow-prev{
+#arrow-left{
     position: absolute;
     left: 20px;
 }
 
 /* use position absolute to move the next arrow to the right of the screen*/
-#arrow-next{
+#arrow-right{
     position: absolute; 
     right: 20px;
 }
